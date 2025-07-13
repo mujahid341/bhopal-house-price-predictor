@@ -1,0 +1,1501 @@
+bhk,bathrooms,bedrooms,total_sqft,location,price
+4,4,4,3291,Misrod,7866734
+5,2,4,2105,Ayodhya Bypass,8068473
+3,4,1,2714,Jahangirabad,9002186
+5,3,3,453,Shahpura,1923134
+5,1,4,2975,Misrod,6986543
+2,4,2,1015,Chunabhatti,3814210
+3,6,1,1482,Jahangirabad,5642197
+3,1,5,2248,Ayodhya Bypass,8600848
+3,2,3,1354,Hoshangabad Road,4668830
+5,6,1,2833,Patel Nagar,6720264
+4,1,5,2029,Indrapuri,4901392
+3,6,5,3181,Ayodhya Bypass,6685518
+5,2,4,3163,Chunabhatti,8469928
+2,3,4,1049,Bagsewania,2792390
+4,2,4,2747,Jahangirabad,7316860
+2,2,1,794,Bagsewania,2554495
+4,6,1,1759,Maharana Pratap Nagar,7026307
+5,5,3,3040,Arera Colony,10285834
+1,4,4,2961,Arera Colony,10841812
+4,4,5,2843,Ayodhya Bypass,10274454
+2,3,2,770,Hoshangabad Road,1919553
+5,3,3,1257,Bawadia Kalan,5002118
+4,4,1,1190,Ashoka Garden,3652277
+1,5,3,1057,Gulmohar,3703397
+1,4,3,3183,Misrod,8691187
+3,5,3,1792,TT Nagar,7260014
+3,3,3,783,Maharana Pratap Nagar,2278164
+2,1,2,2509,Kolar Road,6512058
+4,6,4,2952,Trilanga,11729876
+4,3,5,638,Patel Nagar,1632539
+3,3,3,594,Patel Nagar,2119681
+4,2,3,3125,Bawadia Kalan,10791822
+4,2,3,2508,Bawadia Kalan,9477646
+1,2,4,1552,Misrod,6267335
+3,6,1,3437,MP Nagar,13610652
+5,2,1,3132,Misrod,7176030
+3,5,2,2415,MP Nagar,9479537
+5,4,1,555,Shahpura,2532015
+1,1,3,1322,TT Nagar,4784280
+2,3,3,3315,Bawadia Kalan,7759185
+4,5,3,3350,MP Nagar,11689755
+1,1,2,2009,Shahpura,7920822
+4,5,3,3446,Hoshangabad Road,13447385
+2,5,1,1374,Ayodhya Bypass,3606903
+2,3,4,1630,MP Nagar,3827459
+1,4,4,2835,Hoshangabad Road,8132268
+2,2,5,2214,Trilanga,8176620
+5,6,1,3334,TT Nagar,11794805
+2,4,3,1237,Shahpura,3659643
+4,6,4,2407,Bittan Market,5555789
+4,3,1,1763,Bittan Market,5656217
+4,3,4,2787,Govindpura,8239790
+4,3,3,603,MP Nagar,2807725
+5,1,4,560,Bagsewania,2282682
+3,6,5,791,TT Nagar,2397713
+1,4,5,1168,Shahpura,3754942
+4,4,4,3022,Trilanga,6805597
+2,5,1,2981,Bittan Market,11939734
+4,5,1,1493,Ashoka Garden,4418363
+2,5,1,3340,Trilanga,10266217
+2,3,4,804,Shahpura,2463048
+4,4,1,1007,Ashoka Garden,3832695
+5,6,3,2014,Kolar Road,6941280
+2,3,5,1940,Gulmohar,6779734
+2,1,3,3275,Trilanga,8686071
+4,5,1,2237,Misrod,6293840
+2,3,3,1089,MP Nagar,2782703
+2,3,1,3349,Misrod,11641908
+4,1,4,1640,Hoshangabad Road,4018255
+4,2,3,2503,Arera Colony,8416629
+1,4,4,765,Kolar Road,2858436
+5,6,4,2122,Maharana Pratap Nagar,8013981
+5,2,2,854,Patel Nagar,2941279
+2,5,1,503,Ayodhya Bypass,1602857
+5,3,5,476,Indrapuri,1603347
+2,1,1,629,Bawadia Kalan,2271041
+1,1,5,2337,Chunabhatti,8548489
+4,4,1,2778,Ashoka Garden,6959423
+4,2,4,1605,Gulmohar,4774382
+4,4,3,1292,Bittan Market,5246891
+5,3,3,1973,Maharana Pratap Nagar,8250298
+1,4,2,3135,Jahangirabad,7875233
+5,6,5,2474,Ayodhya Bypass,8237785
+5,1,5,2075,Maharana Pratap Nagar,5639342
+1,1,5,698,Gulmohar,1476043
+1,5,4,1356,Ashoka Garden,5356321
+1,5,5,3246,Gulmohar,11770636
+1,3,3,1514,Kolar Road,5602350
+4,6,4,2927,Bagsewania,6569758
+3,2,1,3020,Chunabhatti,11495812
+3,4,5,2905,Hoshangabad Road,8498516
+1,3,5,1874,MP Nagar,5272703
+3,5,1,764,Patel Nagar,3079958
+3,4,5,3306,Chunabhatti,7314445
+1,5,1,2098,Jahangirabad,7402937
+3,4,4,750,Trilanga,2719974
+5,2,3,2700,Chunabhatti,7064867
+2,3,1,3228,Gulmohar,7759317
+2,4,2,2304,Jahangirabad,5090411
+1,6,1,3250,TT Nagar,7242353
+4,1,5,1411,MP Nagar,5032868
+1,6,4,2906,Kolar Road,10447514
+4,6,4,3364,Bittan Market,7124214
+2,1,1,898,Govindpura,2397648
+1,6,3,1349,Indrapuri,4632893
+5,4,2,2394,Bagsewania,9399473
+3,4,4,2446,Gulmohar,6755184
+4,4,5,907,Arera Colony,2864798
+3,1,5,1727,Ashoka Garden,5787595
+3,6,3,2948,Shahpura,8038407
+1,1,4,3250,Bittan Market,6597785
+3,4,1,3045,Hoshangabad Road,10706381
+5,6,5,565,Ashoka Garden,2539039
+3,6,3,2909,Ashoka Garden,9487966
+1,5,4,1319,Misrod,4970256
+5,5,4,513,Trilanga,2084484
+2,2,4,1391,Trilanga,3543808
+3,3,4,2351,Patel Nagar,6474883
+1,5,4,2654,Govindpura,6078865
+2,1,5,1658,Jahangirabad,3650896
+2,5,3,914,MP Nagar,3166559
+4,2,4,1631,Jahangirabad,6175502
+5,6,2,1108,Arera Colony,4988200
+3,2,2,2585,Bawadia Kalan,8861872
+1,6,3,738,Trilanga,1501681
+4,6,1,2984,Jahangirabad,7265298
+5,3,1,467,MP Nagar,2692685
+4,5,1,1996,Ayodhya Bypass,6711597
+5,1,2,1964,MP Nagar,6728400
+5,1,1,782,Trilanga,3851072
+3,4,5,418,Jahangirabad,1460146
+5,6,4,3130,MP Nagar,11987729
+4,1,2,2521,Chunabhatti,5761354
+5,3,3,972,TT Nagar,4166209
+3,6,3,3386,Shahpura,12905922
+3,3,4,1699,Misrod,4570560
+4,1,2,2658,Gulmohar,8930380
+2,1,1,3302,Gulmohar,8810361
+2,4,1,2343,Trilanga,9173666
+5,1,5,1050,Ayodhya Bypass,2679754
+1,6,5,2045,Kolar Road,6448513
+5,6,1,1393,Indrapuri,3451071
+4,6,3,3142,TT Nagar,11410620
+4,4,3,2987,Chunabhatti,7325234
+4,4,5,1738,TT Nagar,4440564
+4,1,4,1300,Jahangirabad,4251712
+4,2,1,2084,Ayodhya Bypass,8394706
+3,2,5,3227,Indrapuri,7771111
+2,4,5,1985,TT Nagar,4808962
+4,1,1,2323,Govindpura,8362774
+1,2,1,2181,Maharana Pratap Nagar,6987908
+1,1,3,1536,Patel Nagar,6077795
+1,1,4,2617,Shahpura,6021400
+1,1,4,2344,Arera Colony,7667076
+3,5,1,1437,Shahpura,3822301
+1,6,2,2138,Bittan Market,5168865
+4,1,5,687,Ashoka Garden,2707933
+5,5,5,2636,Hoshangabad Road,8858473
+1,4,1,3361,Trilanga,11907624
+3,2,2,1990,Ashoka Garden,5390889
+3,6,3,3141,Ashoka Garden,9327516
+1,2,1,2145,Shahpura,5712315
+5,6,1,3335,Trilanga,13928621
+1,2,5,2918,Gulmohar,7701324
+3,6,1,1498,Bittan Market,4024581
+2,2,1,2724,Ayodhya Bypass,7959325
+4,2,1,1339,Bittan Market,4607386
+3,2,5,1848,Kolar Road,4721356
+1,2,3,970,Indrapuri,3987009
+4,4,3,3304,Hoshangabad Road,8843259
+1,1,1,1400,TT Nagar,5487200
+1,3,5,1605,Chunabhatti,3557003
+2,5,3,2905,Chunabhatti,9914728
+4,3,3,1317,Trilanga,5370648
+4,3,3,2274,Chunabhatti,5826660
+2,6,5,1232,Jahangirabad,4668968
+3,1,5,3286,MP Nagar,9761574
+1,6,1,2640,Indrapuri,10717806
+5,1,4,2078,Misrod,7315450
+1,1,3,1015,Trilanga,2621453
+1,2,4,805,Ayodhya Bypass,1923574
+3,4,5,2149,Jahangirabad,5660492
+1,2,5,3390,TT Nagar,7069001
+2,4,5,3168,MP Nagar,7401430
+2,6,4,492,Bittan Market,1314157
+4,4,5,2877,TT Nagar,8577116
+5,6,1,1053,Bawadia Kalan,4252512
+1,3,5,833,Misrod,2010153
+1,3,2,1535,Jahangirabad,3774652
+3,4,4,774,Ashoka Garden,2805938
+2,4,2,1466,Govindpura,3595323
+5,6,5,606,Hoshangabad Road,1774078
+4,2,1,1179,Kolar Road,3267298
+2,6,3,1719,Trilanga,7096193
+4,2,5,1541,Bittan Market,5888145
+3,3,1,931,Ashoka Garden,2841054
+3,1,4,2613,Trilanga,9020990
+1,4,2,3090,Trilanga,9401848
+5,2,2,489,Maharana Pratap Nagar,2144310
+4,6,2,1517,Govindpura,5212089
+2,3,4,412,Patel Nagar,1188266
+3,2,1,3420,Maharana Pratap Nagar,9033482
+1,6,4,2257,Kolar Road,4713300
+1,4,2,1204,Arera Colony,3645460
+4,4,5,1344,Jahangirabad,5479358
+3,5,3,3189,Kolar Road,10114973
+5,1,4,2257,Hoshangabad Road,8762362
+3,5,4,2010,Chunabhatti,8059709
+4,3,1,3323,Hoshangabad Road,8411587
+4,2,1,2359,Hoshangabad Road,8110612
+3,3,4,3107,Trilanga,10664903
+4,6,2,3479,Chunabhatti,13968075
+3,4,3,1452,Gulmohar,6180268
+2,5,1,695,Arera Colony,2478196
+3,5,2,3433,Bittan Market,8734925
+3,5,5,1325,Shahpura,5236813
+4,3,1,1039,Shahpura,2706292
+4,4,2,2787,Indrapuri,10428946
+1,2,2,1027,TT Nagar,3827277
+1,6,3,2886,Jahangirabad,7800750
+2,2,3,1567,Maharana Pratap Nagar,5331852
+1,3,5,1341,Govindpura,3871873
+3,6,2,1229,Trilanga,3959313
+4,5,2,2170,Shahpura,6071027
+1,1,3,2966,Indrapuri,10593967
+1,3,1,1375,Bagsewania,5099809
+2,3,1,1354,Trilanga,5833240
+2,4,4,1662,Maharana Pratap Nagar,4072124
+3,2,3,1351,Chunabhatti,5505074
+4,3,4,1343,Arera Colony,4899522
+2,3,3,2602,Ashoka Garden,6781367
+1,5,5,1604,Arera Colony,3263280
+4,5,2,2535,TT Nagar,6919159
+4,6,5,1934,TT Nagar,7725226
+1,1,3,1496,Ashoka Garden,4992308
+2,4,2,3378,TT Nagar,11967040
+1,1,1,578,Kolar Road,1306760
+4,6,1,2659,Indrapuri,9406807
+5,5,4,2228,Bawadia Kalan,5172774
+5,2,3,1657,TT Nagar,5477459
+3,5,3,864,Indrapuri,3083413
+1,4,1,2174,Arera Colony,5201455
+1,5,5,3078,Ashoka Garden,11301015
+3,4,2,3272,Ayodhya Bypass,8770493
+3,4,5,1630,Bittan Market,5336992
+3,4,5,3054,Jahangirabad,8901868
+4,6,1,1284,Arera Colony,4173531
+1,4,1,2813,Trilanga,5829202
+4,4,1,2723,Hoshangabad Road,5997599
+3,2,4,2827,Hoshangabad Road,11124576
+1,1,5,1732,Kolar Road,4441030
+4,3,3,2054,Ashoka Garden,7853994
+4,1,2,1344,Chunabhatti,6393913
+3,4,4,3257,Misrod,8139628
+1,2,3,1324,Bawadia Kalan,3552196
+3,5,5,2338,Bawadia Kalan,7945659
+1,2,1,893,Govindpura,3669337
+5,4,5,1946,Jahangirabad,7908702
+2,2,2,2369,Govindpura,7238520
+2,2,4,1494,Kolar Road,5927569
+2,4,4,2811,MP Nagar,6820600
+3,6,2,3017,Bagsewania,12259211
+5,2,3,2225,Bittan Market,8780529
+1,3,3,1162,Kolar Road,2732304
+4,3,4,2723,Trilanga,8017263
+1,2,4,449,Kolar Road,1041806
+4,6,1,3175,Bagsewania,8696050
+1,5,3,1305,Maharana Pratap Nagar,5128033
+5,4,2,3375,Ashoka Garden,9847423
+4,3,3,963,MP Nagar,2327888
+3,5,1,1182,Shahpura,2985958
+1,2,4,2932,Govindpura,11855664
+1,5,4,2440,Patel Nagar,7889904
+4,1,1,2231,Patel Nagar,6754140
+3,3,2,983,Govindpura,2343450
+3,2,4,1719,MP Nagar,7075428
+5,4,5,635,Jahangirabad,2819222
+3,6,4,2503,MP Nagar,6768794
+3,2,5,2342,Arera Colony,5089237
+3,4,1,759,Trilanga,2143339
+2,6,1,2330,Bagsewania,5301583
+5,6,4,509,Bawadia Kalan,1774328
+1,2,3,591,Trilanga,2357993
+4,5,5,1303,Bawadia Kalan,4307388
+1,5,2,1516,Kolar Road,5719928
+5,6,4,1261,Bittan Market,4418952
+4,5,2,3015,Shahpura,10655469
+5,1,4,1483,Ashoka Garden,5612810
+3,6,3,1049,Gulmohar,2542338
+4,6,3,438,Kolar Road,1756535
+3,4,3,1036,Chunabhatti,3729351
+1,5,3,1436,Shahpura,3091035
+1,6,1,435,Patel Nagar,903605
+4,1,1,2548,Bawadia Kalan,8510220
+4,4,5,1761,Trilanga,7185166
+5,2,2,2383,Bagsewania,7409371
+5,6,4,565,Trilanga,2623813
+3,1,4,2830,Ayodhya Bypass,8166189
+4,3,1,2279,Patel Nagar,8289246
+1,1,4,3237,Bawadia Kalan,10003925
+5,1,1,430,Kolar Road,2266671
+5,4,5,410,Govindpura,1547935
+1,2,2,2411,Misrod,8421409
+5,3,5,2543,Arera Colony,8591403
+3,5,3,2900,Misrod,8336530
+4,5,3,2639,Bittan Market,6326600
+1,1,3,885,Misrod,2084227
+4,4,5,1689,Gulmohar,3740275
+5,4,4,1847,TT Nagar,7543302
+5,5,2,2685,Patel Nagar,6944152
+1,3,3,2343,Jahangirabad,5500802
+3,2,3,2363,Govindpura,8144860
+2,3,3,2251,Ayodhya Bypass,5697997
+1,6,2,1869,Maharana Pratap Nagar,5625981
+2,6,3,1766,Trilanga,4245793
+2,2,2,3182,Arera Colony,12545534
+3,5,3,1390,Trilanga,5696077
+2,2,5,1224,Misrod,5008163
+2,4,5,1862,Bawadia Kalan,5371864
+3,6,2,2553,Hoshangabad Road,8939832
+2,1,5,2628,Shahpura,6098872
+2,1,2,2631,Shahpura,5387388
+2,5,5,625,Jahangirabad,1343539
+1,4,5,1176,Chunabhatti,3692143
+1,3,2,3237,Govindpura,9391534
+1,4,4,1512,Patel Nagar,4613170
+3,1,5,1087,TT Nagar,2363116
+5,1,3,929,TT Nagar,3185016
+2,6,4,1371,MP Nagar,4983016
+2,4,2,1335,Ashoka Garden,3869863
+3,4,4,1822,Kolar Road,6866419
+2,1,1,2553,Bagsewania,6299782
+1,3,1,1694,MP Nagar,5919364
+5,5,5,2398,Ayodhya Bypass,8194271
+4,5,5,3278,Shahpura,8174281
+2,4,3,1926,Gulmohar,5028105
+1,5,4,1078,Maharana Pratap Nagar,3129299
+4,1,1,3296,TT Nagar,12741452
+5,1,5,2840,Hoshangabad Road,8675224
+4,4,4,439,Bagsewania,1204692
+1,4,5,3107,Misrod,11405854
+4,6,5,3428,TT Nagar,12178956
+3,4,1,1505,Maharana Pratap Nagar,4511261
+4,3,1,1244,Ashoka Garden,3935058
+2,5,5,2143,MP Nagar,4908232
+2,4,2,2648,Bittan Market,8745391
+3,2,5,846,TT Nagar,2553448
+1,6,5,1634,Bittan Market,6764867
+2,2,3,2891,Jahangirabad,8478605
+5,1,3,1750,Ashoka Garden,5396542
+2,5,3,3208,Govindpura,10336697
+2,4,2,626,TT Nagar,2801124
+1,2,2,447,Bawadia Kalan,1395700
+4,5,5,3489,Maharana Pratap Nagar,10742288
+2,1,3,3359,Trilanga,11753730
+3,3,2,1862,Trilanga,6425502
+4,6,1,2230,Misrod,7041912
+5,5,5,586,Bawadia Kalan,1392938
+1,5,4,2792,Arera Colony,8244226
+5,3,5,2671,Bagsewania,7367191
+4,5,4,3277,Hoshangabad Road,12771126
+4,1,3,2935,Jahangirabad,8161245
+4,1,4,2332,Hoshangabad Road,9470132
+5,3,3,3324,Maharana Pratap Nagar,10111848
+4,6,1,1248,Gulmohar,4806604
+5,4,4,2432,Chunabhatti,7824587
+4,2,5,1652,TT Nagar,4232620
+3,4,3,1813,Arera Colony,5271387
+4,5,5,1378,Shahpura,3680770
+5,2,2,2012,Chunabhatti,7111978
+2,3,3,1416,Hoshangabad Road,4250562
+4,3,4,2635,Gulmohar,9591277
+2,6,3,2281,TT Nagar,5927356
+3,2,5,669,Ashoka Garden,1483501
+1,1,1,2030,Misrod,5938886
+3,2,3,709,Bittan Market,2812089
+4,5,4,2443,TT Nagar,9007577
+2,1,2,1974,Govindpura,5834170
+2,3,1,1495,Ashoka Garden,4865468
+5,2,2,3292,Misrod,7654856
+2,4,3,2095,Kolar Road,8164897
+5,6,5,2933,Trilanga,10102999
+1,4,5,1845,Indrapuri,4977618
+4,6,4,2567,Bittan Market,8574871
+5,5,5,619,Bagsewania,2109737
+1,4,1,452,Shahpura,1957771
+2,2,5,2157,Shahpura,5074682
+2,2,4,1874,Trilanga,6217604
+1,4,3,2066,Bittan Market,5266801
+2,2,3,1660,Misrod,5439494
+1,5,5,3205,Indrapuri,11824113
+5,1,2,3185,Ashoka Garden,11248033
+5,5,3,1119,Hoshangabad Road,4358656
+1,6,5,805,Misrod,2830754
+5,5,4,3055,Ayodhya Bypass,7339322
+5,6,5,3468,Kolar Road,10177524
+5,2,3,2869,Chunabhatti,7398497
+3,1,4,3159,Bawadia Kalan,13014552
+4,2,5,2694,Indrapuri,7886254
+2,3,1,471,Jahangirabad,1523234
+3,2,4,2253,Bagsewania,7989948
+5,6,1,2632,Patel Nagar,7047116
+1,2,2,2453,Kolar Road,6058297
+5,2,4,1629,Maharana Pratap Nagar,4907608
+4,1,1,1967,Shahpura,5618022
+5,2,3,3353,Ashoka Garden,8478432
+1,1,3,786,Patel Nagar,1730211
+4,4,2,2191,Ashoka Garden,8640577
+5,3,4,1098,Shahpura,4673164
+4,1,4,1600,Govindpura,4854944
+2,6,4,1226,MP Nagar,3588197
+2,4,2,2222,Shahpura,4847143
+5,1,4,748,Govindpura,2989027
+4,1,3,1678,Gulmohar,6646692
+1,3,1,707,Ashoka Garden,1632174
+5,6,3,1550,Maharana Pratap Nagar,4505729
+2,5,3,2360,Govindpura,8486683
+2,5,1,2734,Jahangirabad,9458937
+5,1,3,1165,Jahangirabad,2941502
+4,2,2,1124,Gulmohar,3772383
+2,6,1,3209,Jahangirabad,8874249
+4,4,3,2019,MP Nagar,5952092
+2,2,5,782,MP Nagar,3138084
+2,2,3,2835,Hoshangabad Road,10712773
+3,6,2,924,MP Nagar,2955450
+2,1,4,3086,Jahangirabad,12099379
+1,1,3,3385,Bagsewania,9816895
+5,1,4,675,Bittan Market,2892129
+5,1,5,2947,MP Nagar,9383144
+4,5,3,3164,Shahpura,11976838
+2,1,1,736,MP Nagar,3097620
+1,5,4,2373,Trilanga,5133163
+4,5,5,3379,Kolar Road,13817483
+3,1,1,880,Arera Colony,3637558
+4,3,1,1310,Bittan Market,5141205
+4,4,1,2396,Govindpura,6252029
+2,2,1,1751,Maharana Pratap Nagar,6321839
+3,5,3,2433,Trilanga,9627397
+4,6,3,2154,Indrapuri,6351933
+1,6,3,508,Arera Colony,2162078
+1,4,5,727,MP Nagar,1944577
+5,6,5,2199,Ayodhya Bypass,5443471
+3,3,5,714,Gulmohar,2336243
+3,6,2,1534,Arera Colony,5142716
+5,2,5,3146,Jahangirabad,10938272
+4,2,3,1180,Misrod,2721249
+3,5,3,1920,Hoshangabad Road,7935362
+1,1,2,555,Gulmohar,1320770
+1,3,2,1896,Bittan Market,4234829
+2,5,5,2124,Arera Colony,4611292
+3,3,4,1286,Maharana Pratap Nagar,4502665
+4,1,2,3473,Patel Nagar,13855819
+5,6,1,3205,Gulmohar,11409250
+5,6,3,1121,Govindpura,4342917
+4,1,1,1312,Shahpura,3152439
+2,5,3,1270,Patel Nagar,3882662
+5,1,3,412,Ashoka Garden,1479863
+3,4,2,3055,Jahangirabad,9332507
+2,2,2,897,Maharana Pratap Nagar,1935138
+3,5,1,2156,Chunabhatti,7453686
+1,3,3,2685,Maharana Pratap Nagar,8129463
+2,4,1,1517,Ashoka Garden,5722892
+5,5,4,3228,Arera Colony,10024804
+2,1,1,1594,Bagsewania,3547103
+2,1,5,2404,Misrod,8352833
+2,1,1,3053,Arera Colony,7191173
+2,1,5,3108,Hoshangabad Road,11827060
+3,3,5,2047,Maharana Pratap Nagar,6993405
+1,4,5,1990,Misrod,4745593
+4,6,4,3296,Patel Nagar,13554568
+2,2,1,3383,Patel Nagar,10569061
+5,3,1,1890,Govindpura,4383294
+2,3,4,3075,Ashoka Garden,10640734
+5,6,3,542,TT Nagar,1897334
+3,6,2,1624,Kolar Road,6128928
+5,2,1,3161,Patel Nagar,12185056
+4,2,2,2926,Bittan Market,12030690
+1,6,4,964,Kolar Road,3075450
+5,1,3,2918,Patel Nagar,9489565
+5,3,3,2831,Bawadia Kalan,10373154
+1,5,3,2115,Arera Colony,4826798
+4,2,4,3373,Kolar Road,10858807
+2,2,5,816,Chunabhatti,2937779
+5,6,5,2248,Bagsewania,5096964
+1,4,2,2755,Arera Colony,7519981
+3,5,5,3096,Hoshangabad Road,11658116
+1,5,5,2117,Gulmohar,7632169
+3,2,3,1790,Indrapuri,4150304
+4,1,3,3472,Jahangirabad,8074465
+2,4,2,1467,Misrod,3726598
+1,5,1,3186,Indrapuri,11760644
+5,2,2,2266,Indrapuri,5630053
+4,5,2,1521,Indrapuri,5804738
+1,4,4,1688,Bagsewania,3478540
+5,4,4,2206,Bagsewania,7825330
+1,3,2,2587,Jahangirabad,7279753
+3,6,2,1904,Chunabhatti,7303001
+1,6,2,3421,Indrapuri,8784606
+1,2,5,1416,Bawadia Kalan,5182622
+1,4,4,1352,Kolar Road,3370067
+4,3,2,3351,Bagsewania,11906865
+1,3,3,471,Hoshangabad Road,1781717
+5,5,3,2090,Ashoka Garden,5210426
+3,5,5,1691,Arera Colony,6919401
+3,3,5,1744,Jahangirabad,5589387
+1,5,1,2554,Bawadia Kalan,5685070
+4,4,1,1282,Maharana Pratap Nagar,4335653
+4,1,1,538,Trilanga,1853092
+5,4,5,3062,Jahangirabad,10840304
+1,3,5,3310,Trilanga,11914587
+3,3,5,2720,Maharana Pratap Nagar,6383776
+4,4,3,1904,Patel Nagar,6435435
+1,5,5,2863,Chunabhatti,10505444
+4,5,3,2953,Misrod,12040105
+4,6,1,1132,Bawadia Kalan,4355006
+3,3,1,2148,Maharana Pratap Nagar,8798019
+2,2,1,823,MP Nagar,2737609
+5,6,2,1991,Jahangirabad,6196155
+5,5,2,789,TT Nagar,3343408
+3,4,4,741,Arera Colony,2990193
+4,5,4,1345,Bagsewania,4395431
+1,4,4,1013,Shahpura,3064786
+4,6,2,892,Misrod,3527526
+3,3,2,591,Jahangirabad,2684798
+5,5,4,898,Bawadia Kalan,3194159
+4,4,4,1221,Misrod,3556447
+5,3,5,2135,Bittan Market,6985822
+1,2,4,1656,Hoshangabad Road,5007311
+5,4,5,2368,Indrapuri,6401759
+5,6,3,626,Bagsewania,2836583
+2,2,2,1794,Gulmohar,5874966
+2,2,4,2586,Maharana Pratap Nagar,6945519
+2,1,2,3303,Govindpura,7255988
+5,5,2,1216,Jahangirabad,3333785
+3,4,2,1873,Chunabhatti,7334693
+5,2,3,1486,Gulmohar,4646087
+3,1,1,503,Kolar Road,1785600
+3,6,4,2274,MP Nagar,7007183
+2,3,1,1270,Ayodhya Bypass,3764261
+4,4,1,1067,Bawadia Kalan,2635821
+1,2,1,2442,TT Nagar,6543218
+2,5,2,672,TT Nagar,2208674
+2,1,5,1429,Hoshangabad Road,4572715
+4,2,2,2631,Govindpura,7228652
+1,5,2,1451,Hoshangabad Road,4352923
+5,2,1,1973,Bittan Market,8247866
+5,4,2,692,Indrapuri,2555322
+2,4,1,2624,Maharana Pratap Nagar,6821879
+1,4,5,2505,Maharana Pratap Nagar,6297229
+2,6,4,1692,MP Nagar,4958836
+3,6,1,707,Misrod,2802392
+2,1,5,1376,TT Nagar,3666526
+2,4,4,1651,Shahpura,5615428
+5,5,3,1670,Chunabhatti,3928135
+5,2,1,3147,Govindpura,9477372
+5,3,1,1917,TT Nagar,7165053
+3,5,3,2530,Kolar Road,6956417
+5,6,3,1609,Bawadia Kalan,5578228
+1,6,1,2699,Arera Colony,6377793
+4,5,3,1778,Indrapuri,6664520
+1,6,2,2173,Ashoka Garden,4494134
+1,4,4,2119,Jahangirabad,8163646
+5,1,4,2442,Maharana Pratap Nagar,6819556
+4,2,4,1195,Hoshangabad Road,4707659
+4,1,2,1296,Gulmohar,4012597
+4,2,3,2361,MP Nagar,8389163
+3,2,5,609,Gulmohar,2115007
+5,1,3,3263,Shahpura,12684927
+4,5,1,3056,TT Nagar,7382123
+3,2,4,2894,Ayodhya Bypass,6946674
+2,1,3,2907,Arera Colony,8839080
+2,2,5,1367,Shahpura,2951814
+3,3,1,871,Jahangirabad,2547867
+3,5,2,2817,Indrapuri,11083783
+5,4,2,3347,Govindpura,13841014
+5,2,5,1322,Hoshangabad Road,4070010
+2,3,1,536,Patel Nagar,2238868
+4,4,4,766,Indrapuri,2796222
+2,4,3,3359,TT Nagar,8577764
+4,2,1,583,Indrapuri,2427070
+4,1,2,2919,Ashoka Garden,10390735
+5,2,5,1798,Ayodhya Bypass,7497275
+1,3,5,3101,Bittan Market,8180185
+1,4,3,3196,Ashoka Garden,11087423
+3,2,5,936,Indrapuri,2106157
+5,1,5,3249,Bagsewania,7445461
+4,2,1,2002,Bawadia Kalan,4480081
+1,5,4,1673,Chunabhatti,6680713
+4,1,3,3367,Maharana Pratap Nagar,12910231
+1,3,1,2957,Misrod,10673641
+1,4,4,3077,Ayodhya Bypass,9230414
+1,2,1,3449,Misrod,8838430
+5,1,1,1496,Ayodhya Bypass,4162563
+2,5,5,1705,MP Nagar,4466504
+4,1,4,1315,Arera Colony,4027570
+5,6,3,3481,Gulmohar,12918591
+5,5,3,551,Trilanga,2099855
+5,3,4,1428,Bagsewania,3568107
+5,4,5,1618,Gulmohar,3791028
+5,3,2,2377,Gulmohar,5877152
+3,2,1,2911,Ashoka Garden,8630072
+4,1,5,670,Misrod,2946455
+5,6,4,1586,TT Nagar,5706570
+4,5,1,859,Arera Colony,3421181
+3,5,3,504,Bawadia Kalan,1482583
+3,1,2,2110,Jahangirabad,6097751
+4,6,3,2609,Maharana Pratap Nagar,6562071
+1,1,4,2798,Patel Nagar,10420977
+2,2,1,833,Ayodhya Bypass,3016138
+1,3,4,3299,Hoshangabad Road,7633097
+1,5,1,539,Kolar Road,1875135
+1,2,5,1894,Govindpura,5823872
+5,3,2,486,Indrapuri,2047881
+3,2,5,2111,MP Nagar,8333197
+1,6,5,2630,Hoshangabad Road,8428073
+3,5,4,2815,TT Nagar,8658498
+4,1,2,528,Jahangirabad,1537826
+2,1,1,1669,Hoshangabad Road,3922290
+4,3,1,2001,Trilanga,4901522
+4,4,3,1069,Indrapuri,2300918
+5,6,1,548,Trilanga,2726602
+2,3,4,1384,Misrod,4847826
+4,4,5,1251,MP Nagar,3469602
+4,2,5,1856,Ayodhya Bypass,7184725
+2,6,5,1027,Indrapuri,2539539
+2,2,2,1892,MP Nagar,5211330
+4,5,1,2893,Bagsewania,7449780
+2,6,4,2444,Trilanga,6934336
+4,4,2,1283,Patel Nagar,3543169
+4,5,3,2741,Arera Colony,8298330
+5,1,4,2188,Indrapuri,6726313
+1,4,4,649,Ashoka Garden,2625905
+4,3,4,3325,Hoshangabad Road,7390505
+3,1,5,1347,Ashoka Garden,3135004
+1,1,4,1374,Gulmohar,3311445
+1,3,1,1725,Shahpura,5884494
+1,6,4,3496,MP Nagar,7665960
+5,1,5,3236,Shahpura,12324349
+4,4,4,1383,Arera Colony,4236185
+5,5,3,1288,Indrapuri,4824155
+4,1,3,3337,Kolar Road,10809862
+5,4,5,2517,Kolar Road,6244116
+5,2,1,3072,Misrod,7941969
+3,4,1,1274,Shahpura,3893770
+5,5,2,1726,Jahangirabad,5996139
+2,4,5,870,Chunabhatti,2561319
+3,3,4,2387,Misrod,5845967
+5,5,5,490,Kolar Road,2215438
+1,6,2,929,Indrapuri,1864084
+2,2,5,1060,Gulmohar,4213225
+2,3,5,1138,Govindpura,3727045
+2,6,2,3173,Hoshangabad Road,8402229
+3,4,1,1271,Misrod,2900596
+5,5,4,2086,Bawadia Kalan,5184251
+5,2,2,591,Misrod,2446600
+1,3,3,2386,Arera Colony,7867824
+1,6,1,2585,Bagsewania,9206342
+2,6,3,744,Maharana Pratap Nagar,2863543
+1,2,1,1408,Indrapuri,5322849
+3,4,4,2950,Bawadia Kalan,7493016
+5,2,4,602,TT Nagar,1764691
+2,6,5,972,MP Nagar,4097647
+1,1,3,591,Bawadia Kalan,1449506
+3,3,1,2452,TT Nagar,5585486
+3,2,4,2313,Ayodhya Bypass,8166718
+1,6,2,2116,Ashoka Garden,5903541
+5,4,4,710,Kolar Road,3423227
+1,6,2,2996,MP Nagar,10013505
+2,4,1,2503,Maharana Pratap Nagar,5563327
+1,2,4,842,Gulmohar,3119272
+3,4,4,1660,Jahangirabad,4299691
+1,5,1,1269,Arera Colony,3165569
+5,5,4,984,Bagsewania,3262093
+4,5,2,1994,Jahangirabad,4352949
+1,1,4,3199,Misrod,9621593
+5,2,3,1937,Trilanga,5125756
+5,6,5,759,MP Nagar,2866532
+3,6,2,2123,Indrapuri,6028658
+5,1,3,3266,Chunabhatti,12062774
+5,4,1,2477,Bawadia Kalan,9808881
+5,1,2,2202,Patel Nagar,5683781
+5,4,5,2411,Ashoka Garden,7023948
+2,4,5,2555,Chunabhatti,6932631
+2,3,1,1243,Hoshangabad Road,3141181
+3,6,1,2025,Kolar Road,7749601
+1,5,2,3164,Trilanga,10777010
+5,4,4,1290,Bittan Market,3629425
+1,3,1,2391,Gulmohar,6562949
+1,6,4,2382,Indrapuri,5331248
+3,5,3,1359,Maharana Pratap Nagar,4227901
+5,4,5,1868,Patel Nagar,4645089
+5,4,4,3340,Arera Colony,13959914
+4,1,5,1861,Kolar Road,6901418
+1,1,4,1131,Bagsewania,3255224
+1,6,3,1005,Maharana Pratap Nagar,3121723
+2,5,1,2904,Maharana Pratap Nagar,11373161
+4,4,3,1014,Jahangirabad,3508408
+2,6,1,3145,Ashoka Garden,7399747
+2,6,1,2404,Bittan Market,7095316
+2,2,5,2119,Chunabhatti,8197034
+3,1,3,1073,Jahangirabad,3707499
+3,5,4,1670,Bawadia Kalan,5912977
+2,4,3,2990,Trilanga,11471074
+4,6,5,1987,Maharana Pratap Nagar,8055109
+1,4,1,3304,Jahangirabad,12447138
+4,2,5,2011,Bawadia Kalan,5004804
+5,5,2,1296,Ashoka Garden,4388434
+3,6,2,1862,Govindpura,6710091
+1,4,4,677,Patel Nagar,3006455
+1,1,5,951,Trilanga,3216348
+5,2,4,2036,Jahangirabad,5173893
+5,5,4,2558,Maharana Pratap Nagar,9254544
+2,2,2,2832,Kolar Road,10220663
+3,1,4,1160,Gulmohar,2550793
+3,5,2,3141,Maharana Pratap Nagar,9294965
+4,2,1,1849,Bagsewania,4675097
+2,3,5,804,Jahangirabad,2633945
+2,1,4,1758,Govindpura,3934221
+2,1,2,1632,MP Nagar,4739109
+2,1,3,421,Chunabhatti,1566654
+3,3,4,1077,Ayodhya Bypass,3668503
+3,3,1,3058,Kolar Road,10501837
+2,4,1,2428,Trilanga,9131697
+4,6,3,1631,MP Nagar,4558593
+1,2,2,2455,MP Nagar,5795001
+1,4,4,3149,Patel Nagar,11859776
+4,2,2,2208,TT Nagar,5435132
+2,6,1,928,Govindpura,4013519
+3,3,2,2437,Gulmohar,9262137
+1,6,1,3049,Maharana Pratap Nagar,9035962
+5,3,2,2076,Jahangirabad,8646204
+5,6,3,1056,Shahpura,2834565
+4,4,5,565,Arera Colony,2054507
+2,5,3,1248,Indrapuri,4252302
+1,4,3,895,Bawadia Kalan,2274672
+2,2,5,989,TT Nagar,4025669
+1,4,5,828,Maharana Pratap Nagar,1887368
+4,1,4,3221,Ayodhya Bypass,10418478
+4,2,4,562,Indrapuri,2372107
+5,6,3,2813,Ayodhya Bypass,10002033
+2,2,3,1662,Maharana Pratap Nagar,4254992
+5,5,1,471,Shahpura,1662192
+2,3,1,1054,Chunabhatti,3878438
+5,6,4,668,Maharana Pratap Nagar,2236206
+3,2,4,2176,Shahpura,8540292
+3,6,1,2862,Bittan Market,9181623
+3,6,1,1668,Govindpura,6130371
+3,6,2,1415,Bagsewania,5442865
+1,3,2,3122,Misrod,7740813
+3,4,1,1483,Gulmohar,5040345
+4,6,2,405,Gulmohar,1674672
+4,1,5,1381,Bagsewania,4491250
+1,5,4,3017,Ashoka Garden,11780581
+3,3,4,806,Indrapuri,2414166
+3,2,1,2353,Maharana Pratap Nagar,5608594
+3,3,3,2473,Bawadia Kalan,7054985
+5,2,1,3476,Ashoka Garden,14023915
+2,3,2,1385,Ashoka Garden,3567430
+5,2,3,789,Bittan Market,3639622
+2,6,2,1109,Misrod,4598151
+3,4,5,3018,Hoshangabad Road,8060257
+3,2,2,1871,Ashoka Garden,4549241
+5,2,5,1153,Govindpura,4314724
+5,1,5,2593,Ashoka Garden,7472897
+2,2,2,1811,Misrod,6644060
+4,1,2,3232,Kolar Road,9731076
+2,5,5,1672,Gulmohar,5129712
+5,6,3,925,Chunabhatti,4031558
+5,1,5,1885,Gulmohar,5463592
+1,4,4,2460,Misrod,7321754
+5,6,5,3350,Indrapuri,9940742
+1,1,3,2831,Trilanga,7985150
+4,6,4,955,Govindpura,3779497
+2,6,1,3334,Shahpura,12155285
+2,6,1,418,Govindpura,1529899
+1,5,3,974,Bagsewania,3048030
+2,4,5,3198,Chunabhatti,11132653
+5,3,2,1403,Arera Colony,4060509
+3,3,3,2866,Gulmohar,7545185
+1,1,4,2866,Ayodhya Bypass,11443538
+2,6,4,2338,Maharana Pratap Nagar,8160935
+1,1,1,2339,Ayodhya Bypass,7195534
+1,5,4,2035,Ayodhya Bypass,6702851
+3,5,3,2098,Indrapuri,4742747
+5,2,4,2569,Trilanga,9092220
+1,5,3,831,Gulmohar,2631029
+2,2,2,2491,Arera Colony,8164564
+4,4,1,2295,Ayodhya Bypass,6368120
+1,1,4,2343,Ashoka Garden,5079133
+1,4,3,1740,Bagsewania,4195105
+3,5,5,2828,Bittan Market,11310500
+5,4,1,544,Arera Colony,2049484
+4,4,2,2810,Bawadia Kalan,8780941
+2,4,3,1473,Kolar Road,3212321
+4,5,2,1488,MP Nagar,3515602
+2,6,2,2802,Trilanga,9814060
+5,4,4,1199,Maharana Pratap Nagar,4003173
+2,2,4,3273,Ashoka Garden,10053256
+3,5,3,1551,Arera Colony,4127440
+3,4,5,2845,Govindpura,10194615
+3,6,3,2356,Govindpura,5811082
+3,5,5,3327,Gulmohar,8232960
+4,3,2,862,Shahpura,2831808
+5,6,1,2174,Ayodhya Bypass,6347287
+2,2,3,2445,Bittan Market,6066197
+2,4,3,1207,Arera Colony,4027409
+3,3,5,586,Bagsewania,2790931
+3,3,2,2143,Gulmohar,7912281
+1,5,2,1131,Ashoka Garden,3036105
+5,3,5,2335,TT Nagar,5658202
+4,2,2,1613,Arera Colony,4093423
+2,2,4,1811,Ayodhya Bypass,7324525
+1,1,1,828,Gulmohar,3172569
+1,2,3,3305,Hoshangabad Road,11092374
+2,6,1,1707,Trilanga,3242726
+4,3,3,2684,Bagsewania,8249892
+1,2,4,1617,Jahangirabad,3635039
+1,5,2,1710,Ayodhya Bypass,5691722
+5,1,5,1170,Govindpura,4892086
+4,3,4,1157,TT Nagar,5091564
+1,1,1,535,Bittan Market,2026442
+4,3,5,1191,Misrod,4230913
+2,5,2,570,Ashoka Garden,2368052
+3,1,4,2606,TT Nagar,8562560
+1,4,5,2648,Hoshangabad Road,5575530
+5,6,4,1980,Govindpura,6218912
+2,6,4,1361,Chunabhatti,3524159
+4,3,2,3030,Patel Nagar,9269442
+2,4,3,1275,Ashoka Garden,4135216
+1,1,5,2818,Misrod,9271853
+4,4,2,502,Patel Nagar,1727862
+3,4,4,1401,Chunabhatti,3781982
+2,1,2,1548,MP Nagar,4927047
+1,5,3,3423,Shahpura,12642470
+5,4,5,3245,Patel Nagar,11480748
+4,4,3,1881,Patel Nagar,5449390
+2,5,1,1057,Kolar Road,4703257
+2,4,5,3329,MP Nagar,12643795
+3,4,3,1620,Shahpura,4115254
+3,4,4,3180,Hoshangabad Road,6885392
+5,6,5,822,Maharana Pratap Nagar,3450602
+5,2,5,3019,Bittan Market,11788702
+1,5,2,570,Chunabhatti,2338485
+1,4,4,2620,Hoshangabad Road,9718296
+5,6,1,3110,Bittan Market,10623829
+5,5,3,852,Bawadia Kalan,3258200
+4,3,2,2797,Shahpura,5761371
+3,3,3,2375,Gulmohar,6220857
+1,4,1,2057,Gulmohar,5786826
+3,6,1,2941,Bawadia Kalan,9745929
+3,6,5,3067,Ayodhya Bypass,9671620
+5,5,1,3475,Hoshangabad Road,12773173
+4,5,3,3366,Ayodhya Bypass,9038757
+2,6,4,2453,Gulmohar,7620539
+4,5,4,687,Arera Colony,2071120
+4,6,5,2041,Kolar Road,5883821
+3,2,3,1847,Bawadia Kalan,6831116
+4,6,3,2313,Maharana Pratap Nagar,8070870
+1,3,1,1007,Maharana Pratap Nagar,4036019
+3,5,3,856,Shahpura,2588603
+1,6,2,2164,TT Nagar,6688453
+2,6,1,1625,Indrapuri,4788367
+3,5,2,1635,Ayodhya Bypass,4994321
+2,2,5,1429,Misrod,5568453
+3,2,4,3071,Bagsewania,10556864
+5,5,5,2823,Bawadia Kalan,11164660
+4,1,4,846,Trilanga,2524238
+5,5,5,1234,Arera Colony,5103793
+2,5,3,1210,Bawadia Kalan,2403874
+4,2,2,1824,Bagsewania,7355904
+3,2,4,1811,Jahangirabad,5186817
+4,5,1,1358,Patel Nagar,3834385
+1,5,2,1875,TT Nagar,5513454
+4,5,1,3296,Arera Colony,13488205
+1,2,2,1208,Ayodhya Bypass,2729728
+4,5,2,1378,Maharana Pratap Nagar,4080932
+1,5,5,2863,Bawadia Kalan,10503324
+2,4,4,1125,Arera Colony,3176759
+5,1,4,2901,Hoshangabad Road,7718026
+3,3,2,1616,Bittan Market,4932467
+4,1,3,2597,TT Nagar,7486442
+5,4,3,2303,Chunabhatti,9424344
+3,3,1,3206,Ayodhya Bypass,11434643
+3,5,1,1178,Kolar Road,4146220
+1,4,5,1372,Arera Colony,5826648
+2,5,2,3210,Bittan Market,9513766
+2,2,1,3449,Chunabhatti,7373990
+5,6,1,1938,Bagsewania,4868948
+2,4,2,1816,Bawadia Kalan,5119491
+4,2,5,2523,Govindpura,5969836
+2,4,1,998,Ashoka Garden,4114378
+5,4,5,624,Bittan Market,2639780
+2,2,4,1953,Bagsewania,4884862
+4,3,5,2560,Bawadia Kalan,8488686
+1,1,3,2698,Ayodhya Bypass,9490007
+5,5,3,1240,Gulmohar,5419939
+1,4,5,2214,Ashoka Garden,8051947
+1,5,3,1113,Jahangirabad,3447165
+1,6,4,1506,Ayodhya Bypass,5168585
+3,2,2,524,Jahangirabad,2117473
+3,5,3,1492,Misrod,5090097
+1,2,3,3331,Govindpura,7346805
+5,5,5,1679,Misrod,4128361
+4,1,4,2150,Kolar Road,6884741
+4,1,2,429,Indrapuri,1038124
+2,1,5,2728,Hoshangabad Road,5837970
+5,1,5,3371,Hoshangabad Road,12060813
+3,1,4,2417,Ayodhya Bypass,5485075
+1,1,2,2815,Ayodhya Bypass,8861726
+2,2,4,894,Bawadia Kalan,2828253
+4,4,2,3496,Hoshangabad Road,13864647
+3,5,4,2009,Maharana Pratap Nagar,6062710
+3,1,5,1117,TT Nagar,2439689
+1,2,5,1416,Jahangirabad,4693575
+4,2,1,1737,Hoshangabad Road,6656315
+5,2,3,1005,TT Nagar,4538502
+3,4,4,774,Bawadia Kalan,2438018
+1,5,1,3086,Bittan Market,7994990
+5,4,3,2360,Hoshangabad Road,9465743
+4,3,4,1448,Misrod,3969657
+3,2,2,1757,Indrapuri,5735065
+5,3,3,515,Jahangirabad,2109708
+5,6,5,2495,Govindpura,5525056
+5,1,1,2201,Ayodhya Bypass,6334167
+3,1,3,2546,Ashoka Garden,6848680
+3,4,3,1882,Bawadia Kalan,6513759
+2,5,5,1946,Bawadia Kalan,7792207
+4,3,4,2020,Gulmohar,5459972
+1,5,2,2852,Govindpura,10458475
+5,4,5,1084,Bawadia Kalan,2311872
+2,1,2,3350,Bawadia Kalan,10139474
+1,5,4,2950,Chunabhatti,6539438
+2,5,3,1871,Arera Colony,7644587
+3,1,2,3341,Govindpura,11920661
+5,3,1,1999,Bittan Market,7079678
+1,1,1,2705,Misrod,10026223
+1,5,5,3291,Bittan Market,11082618
+1,3,4,2568,Indrapuri,9806962
+1,3,5,1209,Arera Colony,4067142
+1,1,5,1377,Jahangirabad,5333993
+2,5,5,2501,MP Nagar,7929321
+5,4,1,3466,Indrapuri,8743176
+3,5,1,1754,Patel Nagar,5615246
+3,2,5,1183,Arera Colony,2684785
+3,6,1,640,Govindpura,2418845
+3,4,4,2178,Shahpura,7021938
+2,3,5,1953,TT Nagar,6559382
+4,4,1,882,Jahangirabad,2000393
+5,3,2,1412,Jahangirabad,4065828
+1,3,5,586,Gulmohar,1980548
+4,4,5,2281,Bittan Market,9092981
+3,3,4,3103,Ayodhya Bypass,8962962
+4,3,3,2709,Bawadia Kalan,8316700
+5,2,3,1352,Govindpura,5372916
+1,5,4,1787,Maharana Pratap Nagar,5818665
+1,5,4,890,Chunabhatti,2340472
+5,6,4,830,Arera Colony,3087409
+5,6,3,638,Bagsewania,1811752
+3,2,4,2751,Indrapuri,11204765
+1,6,1,2745,MP Nagar,6033177
+4,4,5,475,Trilanga,1916320
+2,1,5,1756,Bittan Market,3751137
+2,1,2,2323,Bagsewania,6130104
+5,1,2,3446,Bawadia Kalan,12869289
+3,2,5,2181,TT Nagar,5294882
+2,2,1,3089,Jahangirabad,7157557
+1,3,3,1226,Patel Nagar,4025608
+5,1,3,2730,TT Nagar,6190889
+4,4,1,990,Ashoka Garden,2395519
+5,6,3,2519,Indrapuri,9545616
+4,4,4,3150,Ayodhya Bypass,11589367
+5,6,5,2302,Arera Colony,9176557
+5,1,5,2310,Bittan Market,9406330
+5,1,1,974,Jahangirabad,3807691
+4,1,3,3447,Ashoka Garden,7114113
+4,2,2,1291,Patel Nagar,5071186
+5,6,2,2459,Trilanga,9506590
+2,2,3,540,TT Nagar,2128023
+3,2,2,2189,Shahpura,6830397
+3,5,1,416,Bittan Market,1487183
+3,4,1,1486,Ayodhya Bypass,6008258
+4,4,3,652,Arera Colony,2708830
+4,3,2,864,Chunabhatti,3754893
+2,2,1,775,Ayodhya Bypass,1983056
+3,6,1,2227,Jahangirabad,5763029
+3,5,4,3428,Trilanga,8447602
+5,5,4,919,Patel Nagar,3910473
+4,4,1,2260,Ayodhya Bypass,5856829
+3,2,3,489,Arera Colony,1651281
+2,3,5,1119,Patel Nagar,4923849
+2,2,5,3251,Misrod,6726226
+3,1,1,3243,Ayodhya Bypass,12367452
+4,2,1,1029,Ashoka Garden,3019734
+2,1,1,2284,Bittan Market,8751685
+5,1,3,475,Kolar Road,1873566
+2,3,4,1325,MP Nagar,5034672
+1,6,1,2847,Patel Nagar,11123751
+1,4,1,2205,Trilanga,4015209
+4,2,2,1369,Patel Nagar,2994283
+3,1,3,1494,Chunabhatti,4000573
+4,2,1,2428,Bawadia Kalan,8522684
+4,6,2,1804,Govindpura,7139022
+4,4,5,3244,Trilanga,9556216
+4,6,1,594,Kolar Road,2145505
+5,4,1,627,Gulmohar,2068620
+5,5,2,1859,Jahangirabad,7327223
+2,4,3,860,MP Nagar,3580559
+1,3,1,1017,Bawadia Kalan,2911696
+4,6,5,3492,Misrod,10919343
+2,1,1,463,Bittan Market,1056252
+1,5,5,2612,Shahpura,8188829
+3,3,4,2474,MP Nagar,7455199
+5,2,4,3459,Ashoka Garden,8395583
+1,6,5,684,Bagsewania,2295166
+3,1,3,2083,Hoshangabad Road,5994937
+1,4,1,2728,Indrapuri,8683511
+5,1,1,1237,Bagsewania,4362331
+5,2,4,1230,Chunabhatti,3250119
+2,5,5,1587,Ayodhya Bypass,5750772
+4,5,1,3365,Patel Nagar,12222903
+1,6,1,623,Ashoka Garden,1798021
+1,5,3,1183,Trilanga,2732692
+3,6,2,3412,Trilanga,12570682
+5,6,4,1349,Maharana Pratap Nagar,5736377
+1,6,4,444,Misrod,1244932
+5,4,2,2210,Bittan Market,6607751
+1,3,1,870,Trilanga,2133233
+2,6,3,2481,Ashoka Garden,7760578
+4,6,3,3100,Bagsewania,7988618
+1,3,4,1229,Bittan Market,3339571
+5,1,3,2309,Ashoka Garden,8368557
+2,6,2,2668,Bawadia Kalan,8755980
+1,4,1,2291,Ayodhya Bypass,6331072
+3,5,2,2981,Ayodhya Bypass,8565954
+4,5,5,1091,Patel Nagar,3859273
+1,2,4,1790,Ashoka Garden,3342380
+2,2,3,1331,Indrapuri,3013412
+3,5,5,1240,Kolar Road,5014527
+2,5,3,3458,Ayodhya Bypass,7600620
+2,4,1,2338,Patel Nagar,7872323
+3,3,1,1973,Govindpura,8195306
+2,2,1,3029,Shahpura,7918508
+3,3,3,2686,Patel Nagar,7948510
+1,4,5,2888,Arera Colony,9110082
+3,5,1,547,Gulmohar,2182587
+3,6,5,1432,Arera Colony,5915453
+4,3,3,1711,Trilanga,6309628
+3,5,5,787,Misrod,1774787
+3,5,3,2273,Bawadia Kalan,8181931
+1,1,3,1315,Trilanga,3684644
+4,3,4,2278,Ashoka Garden,6732460
+5,6,3,3085,Gulmohar,7238878
+1,3,3,677,Chunabhatti,1611838
+1,5,2,2377,Bawadia Kalan,8490536
+5,6,1,2259,Hoshangabad Road,6715908
+3,4,4,3436,Bagsewania,9593211
+2,1,4,2225,Indrapuri,6100988
+4,5,4,3036,Misrod,11671603
+2,2,2,2233,Kolar Road,8193553
+5,2,3,3096,Bittan Market,8462520
+1,1,1,1017,Patel Nagar,2361067
+1,4,5,2030,TT Nagar,4842779
+4,5,3,2582,Bawadia Kalan,10156841
+1,3,2,979,Chunabhatti,3234311
+1,1,3,1570,MP Nagar,4757693
+4,4,3,889,Hoshangabad Road,3279059
+4,3,2,2925,MP Nagar,8527614
+5,2,4,1582,Patel Nagar,6410187
+1,2,4,783,TT Nagar,2240230
+1,3,1,562,TT Nagar,1794553
+5,1,1,2888,Bawadia Kalan,7174976
+3,2,4,2276,Ayodhya Bypass,7295440
+3,5,5,1612,Bagsewania,6761409
+3,6,3,2862,Jahangirabad,8262089
+5,3,5,1762,Ashoka Garden,6800519
+1,3,3,2030,Bittan Market,7217175
+5,2,4,1604,Bagsewania,4027295
+5,1,1,687,Ayodhya Bypass,1962462
+3,5,1,2257,Arera Colony,5346817
+2,1,5,586,Bagsewania,2217962
+1,4,1,2307,Patel Nagar,5504369
+3,4,4,1561,Shahpura,4171204
+2,6,5,529,Kolar Road,1863504
+2,2,3,2641,Jahangirabad,9605009
+4,2,1,2763,Chunabhatti,6433512
+1,2,2,2287,Shahpura,6620731
+2,6,1,543,Arera Colony,1499160
+3,4,3,415,Kolar Road,1670329
+4,1,5,2870,Gulmohar,10758713
+1,6,3,644,Bagsewania,1456637
+5,6,2,1326,Kolar Road,5142296
+3,1,4,2576,Trilanga,8942987
+2,2,1,1306,Jahangirabad,4340421
+2,5,5,1286,MP Nagar,4308753
+3,1,4,740,Bawadia Kalan,2310363
+2,4,3,2451,Ashoka Garden,5772130
+4,3,5,1833,Ayodhya Bypass,6286887
+1,3,4,705,Govindpura,2609120
+4,6,5,1307,Patel Nagar,4514626
+2,3,2,3054,Arera Colony,8238609
+5,5,2,1771,Bawadia Kalan,7058459
+1,2,1,3439,Indrapuri,11377625
+1,4,1,720,Misrod,1773560
+3,5,2,958,Maharana Pratap Nagar,2890506
+3,4,5,1604,Ashoka Garden,6155636
+5,4,2,3065,Shahpura,11538184
+1,2,1,3158,Gulmohar,9591325
+5,6,2,1809,Bawadia Kalan,7286301
+3,3,2,2041,Misrod,5324739
+3,2,5,1531,Maharana Pratap Nagar,4686806
+1,5,4,2978,Hoshangabad Road,11299025
+4,6,1,2857,Bagsewania,11598562
+2,5,5,1217,Maharana Pratap Nagar,4049166
+3,6,2,1594,Kolar Road,6533661
+3,5,2,2940,Bagsewania,6679723
+4,2,4,411,Misrod,1992843
+4,6,1,594,Arera Colony,2135528
+5,6,1,2937,Maharana Pratap Nagar,7295469
+5,4,3,3242,Bittan Market,8708923
+2,4,1,3328,MP Nagar,9096489
+2,1,4,2629,MP Nagar,6634769
+1,5,3,3409,Bittan Market,8918817
+5,4,3,1055,Ashoka Garden,2644103
+3,1,2,2321,TT Nagar,6273861
+5,4,2,3141,Chunabhatti,10454236
+3,5,1,2477,Arera Colony,7583475
+4,6,3,2019,Maharana Pratap Nagar,5886225
+5,3,2,1519,Ashoka Garden,5672582
+4,5,4,1177,MP Nagar,4931125
+2,2,2,843,Trilanga,3186803
+2,4,2,697,MP Nagar,2244020
+1,4,3,1207,Bagsewania,4466470
+5,6,3,2160,Ashoka Garden,5482649
+4,2,5,1244,Ayodhya Bypass,3032780
+3,6,4,1415,Bagsewania,3977534
+2,2,3,1784,Shahpura,6539924
+2,3,1,1797,Maharana Pratap Nagar,4616322
+3,4,4,953,Jahangirabad,2380171
+4,4,4,2750,Jahangirabad,6767437
+4,3,3,820,Maharana Pratap Nagar,3438118
+5,1,4,1669,Ayodhya Bypass,5956793
+5,6,3,1660,Bagsewania,4689289
+1,3,2,584,Ayodhya Bypass,1813404
+2,6,5,867,Govindpura,2663744
+5,5,2,3201,MP Nagar,10747013
+4,4,3,2810,Ashoka Garden,7191484
+3,6,3,1706,Patel Nagar,6755972
+4,2,2,1976,MP Nagar,5434042
+2,6,1,735,Maharana Pratap Nagar,2642812
+4,5,1,2609,Jahangirabad,5795424
+1,4,1,1897,Patel Nagar,5411999
+2,3,3,2459,Trilanga,6631802
+3,5,4,1847,TT Nagar,6201043
+1,4,3,987,Trilanga,2443051
+2,6,4,2281,Jahangirabad,8140609
+3,1,2,600,Gulmohar,1596569
+1,1,5,921,Bagsewania,3427321
+1,2,4,2287,Bagsewania,8318521
+2,4,1,2952,Govindpura,8977365
+5,1,3,2111,Govindpura,7570072
+1,3,2,1187,TT Nagar,3995382
+1,4,1,459,Trilanga,1111767
+3,3,2,977,Ayodhya Bypass,3751824
+4,3,5,720,Misrod,2270849
+2,1,3,1858,Ayodhya Bypass,6331078
+2,4,3,2437,Bagsewania,8648977
+5,6,5,1322,Arera Colony,4360467
+5,5,3,1809,Arera Colony,5499165
+2,1,4,2094,Patel Nagar,6598603
+5,1,2,968,Bawadia Kalan,4076528
+3,6,1,1501,Bawadia Kalan,5700967
+2,4,5,926,Kolar Road,3153659
+5,4,4,2971,Trilanga,10582112
+2,3,1,3060,Misrod,11831821
+4,6,1,2572,Patel Nagar,6399841
+1,6,5,1270,Bawadia Kalan,3401446
+2,4,4,679,Bawadia Kalan,2634340
+1,3,1,3364,Hoshangabad Road,12587428
+5,1,1,3069,TT Nagar,11965118
+1,2,4,3293,Bittan Market,8921333
+2,5,3,2292,Indrapuri,5093706
+4,1,1,2151,Maharana Pratap Nagar,6824769
+5,4,2,1073,Misrod,2979638
+2,5,4,1551,Gulmohar,4160596
+5,2,1,2761,Maharana Pratap Nagar,10077494
+3,2,5,731,Kolar Road,2229205
+1,3,2,1573,Maharana Pratap Nagar,6185869
+3,5,1,2439,Patel Nagar,7087396
+2,3,2,1877,Govindpura,6221083
+4,1,2,435,Bittan Market,1211898
+5,6,3,2108,Hoshangabad Road,6261294
+1,6,2,1843,Chunabhatti,4218574
+5,6,3,3493,TT Nagar,14365685
+2,5,4,2653,Bagsewania,9855714
+5,6,3,3086,Jahangirabad,10095934
+1,1,5,3295,Indrapuri,7957956
+2,3,1,1779,Trilanga,6737112
+5,5,4,839,Gulmohar,2677615
+4,3,4,3176,Indrapuri,7460975
+2,5,5,1519,Chunabhatti,4650400
+2,3,3,3388,Maharana Pratap Nagar,13170750
+4,2,1,563,Bagsewania,1345875
+3,3,3,547,Ayodhya Bypass,1463584
+1,6,2,2741,Bawadia Kalan,10830213
+3,2,3,594,Hoshangabad Road,1590012
+5,3,4,1062,Indrapuri,2828626
+4,5,1,879,Misrod,3339235
+3,5,3,522,Ashoka Garden,2090500
+2,5,1,1823,Gulmohar,5532633
+5,4,1,3146,Govindpura,13122950
+5,1,2,1364,Govindpura,4692466
+3,5,2,3108,Hoshangabad Road,6499468
+3,2,4,2178,Patel Nagar,9050000
+4,5,5,1885,Jahangirabad,5806164
+1,4,1,2414,MP Nagar,6728423
+3,6,5,1109,Hoshangabad Road,3786995
+3,2,4,2843,TT Nagar,7880240
+2,4,1,1311,Indrapuri,3009597
+5,6,1,1760,Indrapuri,4084473
+1,2,5,3452,Trilanga,10441374
+2,3,3,2764,Shahpura,9929382
+4,1,2,2134,Bawadia Kalan,7193364
+4,1,3,2223,Shahpura,9715592
+3,4,5,1979,Kolar Road,5449745
+3,6,2,1080,Bittan Market,3395897
+4,1,3,1733,Shahpura,4293849
+3,6,2,2942,Trilanga,7142940
+1,6,1,955,Hoshangabad Road,2561411
+3,4,3,1009,Trilanga,3474432
+5,4,2,2556,Govindpura,10008593
+3,4,2,771,Govindpura,3126209
+2,1,2,3302,Ayodhya Bypass,8502454
+1,4,3,1015,Trilanga,4093464
+2,1,4,3215,Arera Colony,8805487
+2,4,3,2314,Ashoka Garden,5515046
+5,5,5,2653,Hoshangabad Road,10389522
+1,6,3,1246,TT Nagar,4417561
+1,4,2,442,Trilanga,1131379
+1,2,1,1264,Maharana Pratap Nagar,3726186
+1,6,3,1668,Kolar Road,4341173
+1,6,3,1778,Maharana Pratap Nagar,6412931
+5,4,2,1184,Arera Colony,3857449
+3,3,1,875,TT Nagar,3976526
+2,4,1,482,TT Nagar,990344
+1,6,5,1533,Misrod,4034693
+3,2,3,2637,Bawadia Kalan,8253026
+3,6,1,1199,Bawadia Kalan,3886805
+2,2,1,1335,Govindpura,3622770
+5,1,4,2698,Kolar Road,10008991
+4,5,4,2738,Maharana Pratap Nagar,10544662
+4,6,1,2068,MP Nagar,8378502
+3,4,5,725,Arera Colony,3197230
+2,1,1,1934,Bagsewania,7665872
+4,5,2,2385,TT Nagar,8110580
+3,4,3,2364,Maharana Pratap Nagar,8876374
+5,3,5,1236,Patel Nagar,3968402
+4,4,2,907,Misrod,2747049
+3,2,5,3178,Jahangirabad,8488918
+3,2,2,2519,Misrod,7222606
+1,3,3,1670,Maharana Pratap Nagar,4728409
+5,1,3,1040,Misrod,4407355
+1,5,4,3387,Bagsewania,8967902
+2,4,2,2278,Bittan Market,5020626
+1,2,4,1007,Trilanga,3314042
+1,1,2,2358,Bagsewania,5010152
+4,3,4,965,Hoshangabad Road,2282384
+3,6,3,1767,Patel Nagar,4697654
+5,2,5,2501,Ayodhya Bypass,7537933
+1,3,4,2153,Bagsewania,6104097
+5,4,2,2975,Kolar Road,10786788
+1,5,2,3058,Bagsewania,10453835
+2,2,3,1981,TT Nagar,5886778
+1,2,2,2386,Gulmohar,6071529
+4,4,1,2640,Patel Nagar,7054726
+3,6,5,2505,Jahangirabad,9187241
+2,1,4,528,Bawadia Kalan,1202267
+1,5,5,2272,TT Nagar,5100668
+5,2,3,1105,Ayodhya Bypass,4834932
+2,5,4,1251,Jahangirabad,3722235
+2,2,4,407,Maharana Pratap Nagar,1231964
+1,5,1,2476,Chunabhatti,6368379
+2,3,3,1535,Shahpura,6013291
+5,2,2,3394,Maharana Pratap Nagar,12823197
+2,5,1,2578,Indrapuri,9013192
+5,1,1,2635,MP Nagar,8276757
+1,3,5,2098,Kolar Road,6392125
+3,3,5,3156,MP Nagar,12856206
+2,1,5,1898,Shahpura,7511918
+3,5,1,2659,TT Nagar,6532401
+5,4,2,2044,Trilanga,7925612
+2,1,4,675,Ayodhya Bypass,1893471
+4,5,5,2102,Govindpura,5266382
+3,1,2,2195,Indrapuri,7843666
+2,1,3,642,Maharana Pratap Nagar,1649925
+3,2,5,3434,Trilanga,13450224
+2,5,4,3132,Indrapuri,6969955
+1,4,3,570,Bawadia Kalan,1695894
+3,2,3,1052,MP Nagar,4223557
+4,1,4,2332,Misrod,9655001
+4,6,5,2635,Jahangirabad,6324732
+5,1,1,1509,Ashoka Garden,5112756
+2,1,4,1899,Gulmohar,6436848
+3,5,4,2499,Jahangirabad,6113066
+5,5,4,2558,Misrod,10663649
+3,2,3,2372,Maharana Pratap Nagar,9889556
+2,4,2,3324,Jahangirabad,7759166
+4,2,1,1466,Ayodhya Bypass,3463144
+1,3,5,2658,Bittan Market,5719058
+4,1,5,2435,Arera Colony,9705419
+5,6,2,1257,Misrod,3155616
+1,1,4,3074,Bagsewania,8811787
+5,1,1,1449,Jahangirabad,5037480
+2,2,5,698,Hoshangabad Road,2462500
+1,6,5,1323,Kolar Road,2877274
+5,6,4,536,Kolar Road,1691453
+2,6,2,1443,Gulmohar,5953983
+4,2,1,2887,Bittan Market,11253993
+2,1,2,610,TT Nagar,2742453
+3,2,2,3199,Shahpura,7208801
+2,5,1,1974,Jahangirabad,5490372
+2,5,1,2882,Patel Nagar,9581251
+3,2,5,1179,Gulmohar,3513030
+5,6,5,1630,Bagsewania,6944212
+5,1,1,2886,Misrod,9769611
+2,2,3,2202,Govindpura,4815366
+3,2,5,3113,Ayodhya Bypass,11920999
+3,2,3,1465,Arera Colony,6118069
+4,3,1,810,Chunabhatti,2279219
+5,5,5,3253,Gulmohar,10199550
+1,6,2,3057,Ashoka Garden,7977729
+5,4,1,826,Govindpura,2531519
+5,6,4,1871,Hoshangabad Road,4734494
+4,4,3,3349,Bagsewania,11080130
+1,3,1,1341,MP Nagar,5204604
+4,2,1,2307,Indrapuri,7275011
+1,3,5,1141,Misrod,2245748
+2,3,5,1792,Ayodhya Bypass,6043482
+1,1,5,1643,Bawadia Kalan,4495118
+4,5,4,2000,Patel Nagar,7677908
+5,4,5,1655,Ayodhya Bypass,5210981
+1,2,1,727,Jahangirabad,1870447
+1,4,5,1866,Bawadia Kalan,4382232
+3,6,2,2499,Hoshangabad Road,8845030
+5,4,5,2366,Ayodhya Bypass,6849875
+2,6,4,775,Misrod,2812557
+4,5,2,662,Jahangirabad,1977242
+2,6,1,666,Arera Colony,2162654
+5,4,1,2806,Bawadia Kalan,9430123
+1,4,3,2344,MP Nagar,8960804
+1,6,2,2293,Ayodhya Bypass,9048885
+5,3,3,2301,Maharana Pratap Nagar,5912513
+1,5,2,3099,Bagsewania,8410483
+1,1,2,2052,Misrod,4673092
+1,2,4,1844,Kolar Road,5443693
+4,4,3,445,TT Nagar,1691660
+4,2,4,999,Misrod,3902818
+3,1,2,1119,Arera Colony,4808713
+2,2,1,2312,Hoshangabad Road,6608616
+5,1,2,1692,Jahangirabad,5632528
+5,6,4,1000,Hoshangabad Road,4199234
+5,3,3,780,Trilanga,3245023
+3,4,3,517,TT Nagar,1395293
+4,1,4,2563,Arera Colony,6933815
+3,2,3,659,Ayodhya Bypass,2102300
+5,4,5,1498,MP Nagar,4012307
+2,3,1,1903,Gulmohar,4587455
+1,6,1,2752,Hoshangabad Road,5389998
+4,4,1,2454,Jahangirabad,8733523
+4,1,3,765,Patel Nagar,2194332
+3,3,3,2057,Jahangirabad,4862031
+4,2,2,2970,Shahpura,7925775
+5,3,2,1861,Shahpura,6949523
+5,3,1,2424,Bawadia Kalan,9258337
+3,5,5,2876,TT Nagar,9342697
+5,3,2,1190,Shahpura,4220433
+2,3,2,1146,Ayodhya Bypass,4726936
+3,4,3,2814,Ashoka Garden,7108252
+2,2,5,712,Maharana Pratap Nagar,1804502
+1,4,1,937,Misrod,2607429
+2,4,2,1320,Trilanga,3152642
+1,1,5,1477,Arera Colony,3768175
+1,4,5,1890,Bagsewania,7058642
+2,5,1,3312,Bawadia Kalan,10904282
+3,5,5,3229,Misrod,9192137
+5,1,5,2781,Maharana Pratap Nagar,11245737
+5,6,5,1197,Govindpura,2795091
+1,2,2,747,Hoshangabad Road,1751681
+1,2,1,672,TT Nagar,2375187
+3,4,5,3410,Patel Nagar,11367564
+4,4,5,1119,Bawadia Kalan,2724596
+2,6,2,2173,Kolar Road,6473399
+1,4,1,2947,Trilanga,9916235
+5,2,3,1084,TT Nagar,4470729
+3,3,2,2526,Hoshangabad Road,8483910
+2,5,1,1021,Bagsewania,2810663
+3,3,5,2439,Shahpura,5373969
+2,3,1,1346,Shahpura,3955990
+2,2,1,2805,Bagsewania,6725266
+1,3,1,3065,Patel Nagar,12298930
+3,6,3,906,Bittan Market,3165070
+3,1,1,1982,Ashoka Garden,5162776
+5,4,3,3023,Shahpura,11395703
+5,1,5,643,Ayodhya Bypass,2058658
+1,5,3,905,Bittan Market,2650785
+1,4,5,821,Trilanga,3001694
+4,3,5,2664,Bagsewania,10488693
+5,5,3,2272,Gulmohar,7835659
+2,4,2,3456,Gulmohar,7670851
+3,6,4,1592,Trilanga,4994177
+1,6,1,729,Hoshangabad Road,2537192
+3,6,4,1049,Maharana Pratap Nagar,2484764
+3,6,1,1864,Bagsewania,4529627
+4,3,1,790,Bittan Market,3393247
+5,1,5,1919,Maharana Pratap Nagar,4776444
+1,4,1,780,Shahpura,3367635
+3,3,1,1141,Maharana Pratap Nagar,3682581
+1,6,3,2410,Kolar Road,7296778
+2,1,4,1219,Arera Colony,2701720
+4,5,3,1072,Trilanga,4400566
+2,5,1,2960,Govindpura,8181733
+1,5,5,2171,Arera Colony,6829019
+1,6,3,3396,Govindpura,11599722
+5,5,3,1611,Chunabhatti,5870180
+3,2,2,1329,MP Nagar,5483496
+3,4,1,1939,Chunabhatti,6226850
+2,4,5,1312,Shahpura,4038144
+4,6,3,1043,Shahpura,4262219
+3,2,3,826,Ayodhya Bypass,3002457
+5,3,5,901,Patel Nagar,3221668
+2,3,1,1129,Govindpura,2976368
+2,5,2,1683,Misrod,6671874
+5,1,3,2518,Misrod,7364832
+4,3,2,2925,Trilanga,10177947
+5,1,4,856,Kolar Road,3218484
+4,4,1,2636,Trilanga,7032808
+5,1,4,690,Ayodhya Bypass,2320006
+5,4,4,1319,Trilanga,3034993
+1,2,4,2739,Bawadia Kalan,8104178
+2,2,1,2369,Indrapuri,7472483
+5,6,1,1155,Bittan Market,3682924
+5,6,5,2058,Ashoka Garden,7446702
+3,5,2,2234,Trilanga,8356165
+2,3,2,1706,Shahpura,5963007
+3,5,5,1967,Shahpura,4804908
+2,4,5,2269,Patel Nagar,5614469
+3,5,4,776,Chunabhatti,2673224
+5,1,5,1579,Misrod,6727783
+5,4,3,907,Bawadia Kalan,4021080
+1,6,2,1836,Bawadia Kalan,7054964
+3,2,5,2975,Govindpura,8268813
+4,6,3,958,Arera Colony,3012653
+1,3,3,2707,Shahpura,8002828
+3,4,3,820,Bittan Market,2351895
+3,4,3,1952,Chunabhatti,4219812
+1,1,4,703,Trilanga,2836324
+5,3,3,1341,Misrod,3907343
+3,2,4,2989,Trilanga,7869451
+5,4,4,1701,Arera Colony,3830119
+1,4,3,1489,Hoshangabad Road,5986045
+5,1,2,2555,Kolar Road,8525711
+2,5,3,2715,Govindpura,9393501
+4,2,3,2669,Arera Colony,10759383
+3,6,3,2227,Jahangirabad,6614975
+4,3,2,1953,Ashoka Garden,7004298
+5,4,1,1092,Ayodhya Bypass,3038052
+3,4,1,654,Misrod,2141032
+5,6,4,1878,Misrod,7436435
+2,2,4,2700,Maharana Pratap Nagar,9746986
+1,5,2,656,Trilanga,2046606
+3,4,5,2830,Chunabhatti,8239164
+2,2,1,841,Hoshangabad Road,2717625
+2,6,4,2281,Gulmohar,4844064
+3,1,1,3046,Hoshangabad Road,7854641
+5,5,2,1513,Hoshangabad Road,3985322
+2,3,2,2837,Arera Colony,7553332
+4,4,5,981,Govindpura,3954227
+2,2,5,2135,MP Nagar,6073949
+5,1,2,3045,Maharana Pratap Nagar,7431266
+5,3,4,418,Bittan Market,1646208
+4,2,1,1524,Patel Nagar,6093013
+2,2,3,3054,Maharana Pratap Nagar,8009640
+5,3,5,1780,Govindpura,4419482
+3,1,3,1965,Indrapuri,5692765
+1,6,4,2480,Jahangirabad,8542900
+1,1,5,2393,MP Nagar,7290216
+1,5,3,1947,Patel Nagar,7239094
+2,4,4,1261,Misrod,4869270
+4,3,1,554,Jahangirabad,2279894
+5,6,4,1304,Hoshangabad Road,4782901
+3,3,5,1669,Patel Nagar,5088309
+3,3,2,804,TT Nagar,2293502
+2,1,1,1243,Bawadia Kalan,5377811
+1,4,3,2182,MP Nagar,5823227
+2,5,5,1964,Bawadia Kalan,4539478
+4,2,2,1584,Ashoka Garden,5222978
+4,2,4,1146,Ayodhya Bypass,3187070
+5,3,2,2125,Jahangirabad,7392835
+5,4,5,670,Indrapuri,2543490
+4,6,5,1169,Ashoka Garden,3872275
+4,1,2,2115,Hoshangabad Road,7862314
